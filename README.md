@@ -41,5 +41,4 @@ Customiztion:
         Works seamlessly for both non-root and root users
         Use this script to instantly enhance your terminal environment for better clarity, readability, and that Kali Linux aesthetic — all without changing your OS.
 
-           Here is a Look:
-                ![image](https://github.com/user-attachments/assets/d123bcf4-acb7-4868-80db-ada4c4b97f1d)
+Here is a Look: https://github.com/user-attachments/assets/d123bcf4-acb7-4868-80db-ada4c4b97f1d
